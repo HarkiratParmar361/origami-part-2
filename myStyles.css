@@ -1,0 +1,50 @@
+
+body{
+background-color: rgba(245, 245, 245, 0.851);
+}
+
+h3{
+    color: rgb(0, 0, 0);
+    font-family: fantasy;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color:grey;
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 400;
+    color: white;
+    padding: 1.5%;
+}
+
+.grid img{
+    border: 2px solid black;
+    border: radius 50px;;
+    width: 300px;
+}
+.origami {
+    border-radius: 20px;
+    background-color: white;
+
+    
+    font-family: fantasy;
+}
+.chameleon  {
+    border-radius: 20px;
+    background-color: white;
+
+    
+    font-family: fantasy;
+}
+.pigeon  {
+    border-radius: 20px;
+    background-color: white;
+
+    
+    font-family: fantasy;
+}
+p{
+    font-family: fantasy;
+    font-size: 35px;
+}
